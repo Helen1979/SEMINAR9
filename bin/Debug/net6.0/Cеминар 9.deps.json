@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cеминар 9/1.0.0": {
+        "runtime": {
+          "Cеминар 9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cеминар 9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
